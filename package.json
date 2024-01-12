@@ -1,5 +1,5 @@
 {
-  "homepage": "https://RECdigo.github.io/quizGame",  
+  "homepage": "https://RECdigo.github.io/quizGame",
   "name": "quizgame",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,6 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^6.1.1",
     "html-entities": "^2.4.0",
     "lottie-react-native": "^6.5.1",
     "react": "^18.2.0",
@@ -20,11 +19,12 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "react-router-dom": "^6.20.1"
   }
 }
