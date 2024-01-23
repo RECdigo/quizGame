@@ -19,6 +19,8 @@
   
 }
 
+
+
 .mainWin {
   
   width: 40%;
@@ -86,7 +88,7 @@
     font-size: 40px;
     display: flex;
     align-items: end;
-    padding: 0 120px;
+    
     margin-bottom: 20px;    
     display: flex;
     justify-content: center;
@@ -184,6 +186,7 @@
     background-color: white;
     width: 60px;
     border-radius: 5%;
+    margin-left: 5px;
     
   }
 
@@ -256,6 +259,8 @@
       width: 100%;
 
     }
+
+    
 
     .pointsScore{
 
