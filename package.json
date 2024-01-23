@@ -1,5 +1,5 @@
 {
-  "homepage": "https://RECdigo.github.io/quizGame", 
+  "homepage": "https://RECdigo.github.io/quizGame",
   "name": "quizgame",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    
   },
   "eslintConfig": {
     "extends": [
