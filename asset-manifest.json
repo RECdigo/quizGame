@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/quizGame/static/css/main.781a609c.css",
+    "main.js": "/quizGame/static/js/main.2741d4fd.js",
+    "static/js/787.669030ed.chunk.js": "/quizGame/static/js/787.669030ed.chunk.js",
+    "static/media/play.mp3": "/quizGame/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/quizGame/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/quizGame/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "static/media/background__Millionaire_.jpg": "/quizGame/static/media/background__Millionaire_.dfb166e752bdf61900a9.jpg",
+    "index.html": "/quizGame/index.html",
+    "main.781a609c.css.map": "/quizGame/static/css/main.781a609c.css.map",
+    "main.2741d4fd.js.map": "/quizGame/static/js/main.2741d4fd.js.map",
+    "787.669030ed.chunk.js.map": "/quizGame/static/js/787.669030ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781a609c.css",
+    "static/js/main.2741d4fd.js"
+  ]
+}
